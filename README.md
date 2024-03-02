@@ -7,11 +7,16 @@
 ## Steps to run this
 1. Clone the repository
 
-`git clone https://github.com/gdevakumar/Image-Generator-Using-Diffusion.git`
+
+```
+git clone https://github.com/gdevakumar/Image-Generator-Using-Diffusion.git
+```
 
 2. Install the dependencies
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt`
+```
 
 3. Download images you want to generate captions
 
@@ -19,7 +24,9 @@ Save your custom images on *./images* directory
 
 4. Run the model
 
-`python generate_captions.py`
+```
+python generate_captions.py
+```
 
 <hr>
 
