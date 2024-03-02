@@ -7,7 +7,6 @@
 ## Steps to run this
 1. Clone the repository
 
-
 ```
 git clone https://github.com/gdevakumar/Image-Generator-Using-Diffusion.git
 ```
