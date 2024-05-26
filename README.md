@@ -1,4 +1,4 @@
-# Image-Generator-Using-Diffusion
+# Image-Captioning-using-HuggingFace-Models
 
 `generate_captions.py` -> Generate captions to input image using **Salesforce's BLIP Image Captioning Model Large** which is available on [HuggingFace](https://huggingface.co/Salesforce/blip-image-captioning-large).
 
@@ -29,5 +29,3 @@ python generate_captions.py
 ```
 
 <hr>
-
-### Coming Soon !
